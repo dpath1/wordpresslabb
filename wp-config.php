@@ -26,7 +26,7 @@ define( 'DB_NAME', 'labbdb' );
 define( 'DB_USER', 'chefen' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Test123!' );
+define( 'DB_PASSWORD', 'Test123!Test123!' );
 
 /** Database hostname */
 define( 'DB_HOST', 'labb-db-server.mysql.database.azure.com' );
