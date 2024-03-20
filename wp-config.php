@@ -29,7 +29,7 @@ define( 'DB_USER', 'chefen' );
 define( 'DB_PASSWORD', 'Test123!Test123!' );
 
 /** Database hostname */
-define( 'DB_HOST', 'labb-db-server.mysql.database.azure.com' );
+define( 'DB_HOST', 'labbdb-server.mysql.database.azure.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
